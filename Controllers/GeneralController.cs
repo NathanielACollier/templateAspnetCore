@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace electronAngular2.Controllers{
+namespace templateAspnetCore.Controllers{
     public class GeneralController : Controller{
 
         [HttpGet,Route("api/General/HelloWorld")]

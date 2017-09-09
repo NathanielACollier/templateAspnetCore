@@ -8,9 +8,9 @@
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build",
+            "preLaunchTask": "dotnet-build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceRoot}/bin/Debug/netcoreapp2.0/electronAngular2.dll",
+            "program": "${workspaceRoot}/bin/Debug/netcoreapp2.0/templateAspnetCore.dll",
             "args": [],
             "cwd": "${workspaceRoot}",
             // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window

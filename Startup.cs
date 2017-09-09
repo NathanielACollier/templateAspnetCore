@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Infrastructure;
 using Newtonsoft.Json.Serialization;
 using Microsoft.AspNetCore.Http;
 
-namespace electronAngular2{
+namespace templateAspnetCore{
         public class Startup
     {
         public void ConfigureServices(

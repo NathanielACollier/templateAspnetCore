@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace electronAngular2
+namespace templateAspnetCore
 {
     public class Program
     {
